@@ -157,4 +157,3 @@ Getting Members
 Acknowledgements
 ----------------
 
-Special thanks to CS50's friends at Harvard's `Center for Geographic Analysis <https://gis.harvard.edu/>`_ for this API's data!
